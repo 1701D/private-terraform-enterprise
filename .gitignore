@@ -1,3 +1,6 @@
+# Ignore .gitignore
+.gitignore
+
 # Ignore ULTA specific files
 ulta-*
 
