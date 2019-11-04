@@ -52,7 +52,6 @@ variable "subnet_name" {
 	type				= "string"
 	description = "subnet name for VPC creation"
 	default			= "tfe_subnet"
-
 }
 
 variable "vpc_name" {

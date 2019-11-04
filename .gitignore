@@ -1,6 +1,10 @@
 # Ignore ULTA specific files
 ulta-*
 
+# Ignore commit message file 
+
+commit-message.txt
+
 # Ignore apply outputs
 apply-output*
 
