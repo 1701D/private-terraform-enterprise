@@ -1,0 +1,14 @@
+# Ignore ULTA specific files
+ulta-*
+
+# Ignore apply outputs
+apply-output*
+
+# Ignore State files
+terraform.tfstate*
+
+# Ignore terraform directory
+.terraform/
+
+# Ignore OSX files
+.DS*

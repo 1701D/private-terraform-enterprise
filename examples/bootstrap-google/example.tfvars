@@ -1,0 +1,6 @@
+region = "us-central1"
+primary_count = "1"
+zone = "us-central1-a"
+workercount = "0"
+project = "ulta-terraform"
+creds = "ulta-terraform-25589ba13387-b64.json"
